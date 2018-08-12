@@ -6,5 +6,5 @@ def square_array(array)
     squared << squared_num
   end
 
-  return squared
+  squared
 end
